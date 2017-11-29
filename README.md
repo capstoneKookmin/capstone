@@ -1,5 +1,5 @@
-#CAPSTONE DESIGN
-##micro service architecture system
+## CAPSTONE DESIGN
+## micro service architecture system
 
 0. 프로젝트 취지
 
